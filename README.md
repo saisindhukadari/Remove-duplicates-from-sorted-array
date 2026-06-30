@@ -1,5 +1,7 @@
 # Remove-duplicates-from-sorted-array
 Remove dublicates from sorted array
+
+
 class Solution {
     public int removeDuplicates(int[] nums) {
         int n = nums.length;
